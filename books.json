@@ -1,0 +1,40 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "Граф Монте Кристо",
+            "author": "Александр Дюма",
+            "img": "./Aleksandr_Dyuma.jpeg"
+        },
+        {
+            "id": 2,
+            "name": "Жажда жизнт",
+            "author": "Ирвин Стоун",
+            "img": "./Irving_Stoun__Zhazhda_zhizni.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "Наваждения",
+            "author": "Макс Фрай",
+            "img": "./MaksFray.jpeg"
+        },
+        {
+            "id": 4,
+            "name": "Крёстный отец",
+            "author": "Марио Пьюзо",
+            "img": "./Mario_Pyuzo__Krestnyj_otets.jpeg"
+        },
+        {
+            "id": 5,
+            "name": "Зелёная миля",
+            "author": "Стивен Кинг",
+            "img": "./Stiven_King.jpeg"
+        },
+        {
+            "id": 6,
+            "name": "Лавр",
+            "author": "Водолазкин",
+            "img": "./Vodolazkin.jpeg"
+        }
+    ]
+}
