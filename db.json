@@ -4,7 +4,7 @@
             "id": 1,
             "heading": "Книжная полка",
             "description": "Приложение умеет создавать, редактировать и удалять книги. Имя автора книги, её название и обложка, котороая предварительно кодируется в формат base64, сохраняются в localstorage, а оттуда рендерятся на страницу.",
-            "img": "../works.png",
+            "img": "../assets/works/books.png",
             "link": "https://hamedor.github.io/book-app/",
             "technologies": ["React, localStorage"]
         },
@@ -37,7 +37,7 @@
             "heading": "Солнечная Система",
             "description": "Солнечная система и звездное небо с использованием библиотеки three.js",
             "link":"https://hamedor.github.io/SolarSystem/",
-            "img": "../solat-system.png",
+            "img": "../solar-system.png",
             "technologies":["three.js"]
         },
         {
