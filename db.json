@@ -14,7 +14,7 @@
             "description": "SPA-приложение получает данные о курсах валют к рублю в формате JSON с www.cbr-xml-daily.ru. Приложение умеет выводить данные курсы к рублю, а также конвертировать введенное количество пользователем рублей в выбранную валюту.",
             "img": "././currency-courses.png",
             "link": "https://hamedor.github.io/currency-courses/",
-            "technologies":["React", "React-Router", JSON"]
+            "technologies":["React", "React-Router", "JSON"]
         },
         {
             "id": 3,
