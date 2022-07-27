@@ -29,7 +29,7 @@
             "heading": "Форма",
             "description": "Многоступенчатая форма отправки данных с валидацией. Введённые данные хранятся в localstorage",
             "img": "././form.png",
-            "link:": "https://hamedor.github.io/form/",
+            "link": "https://hamedor.github.io/form/",
             "technologies":["Vue", "CSS"]
         },
         {
