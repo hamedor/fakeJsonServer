@@ -4,7 +4,7 @@
             "id": 1,
             "heading": "Книжная полка",
             "description": "Приложение умеет создавать, редактировать и удалять книги. Имя автора книги, её название и обложка, котороая предварительно кодируется в формат base64, сохраняются в localstorage, а оттуда рендерятся на страницу.",
-            "img": "/works/books.png",
+            "img": "works/books.png",
             "link": "https://hamedor.github.io/book-app/",
             "technologies": ["React", "localStorage"]
         },
@@ -12,7 +12,7 @@
             "id": 2,
             "heading": "Курсы валют",
             "description": "SPA-приложение получает данные о курсах валют к рублю в формате JSON с www.cbr-xml-daily.ru. Приложение умеет выводить данные курсы к рублю, а также конвертировать введенное количество пользователем рублей в выбранную валюту.",
-            "img": "/works/currency-courses.png",
+            "img": "works/currency-courses.png",
             "link": "https://hamedor.github.io/currency-courses/",
             "technologies":["React", "React-Router", "JSON"]
         },
@@ -20,7 +20,7 @@
             "id": 3,
             "heading": "Карты",
             "description": "Приложение получает список офисов, координат на карте, и данных руководителей в формате JSON. Приложение отрисовывает на карте точки местоположений офисов по им координатам, а в левой части названия городов и данные об офисах в этих городах, при клике на которые карта центрируется на офисе",
-            "img": "/works/map.png",
+            "img": "works/map.png",
             "link": "https://hamedor.github.io/yandexMap/",
             "technologies": ["Vue","API", "JSON"]
         },
@@ -29,7 +29,7 @@
             "heading": "Форма",
             "description": "Многоступенчатая форма отправки данных с валидацией. Введённые данные хранятся в localstorage",
             "link": "https://hamedor.github.io/form/",
-            "img": "/works/form.png",
+            "img": "works/form.png",
             "technologies":["Vue", "CSS"]
         },
         {
@@ -37,7 +37,7 @@
             "heading": "Солнечная Система",
             "description": "Солнечная система и звездное небо с использованием библиотеки three.js",
             "link":"https://hamedor.github.io/SolarSystem/",
-            "img": "/works/solar-system.png",
+            "img": "works/solar-system.png",
             "technologies":["Three.js"]
         },
         {
@@ -45,14 +45,14 @@
             "heading": "Сайт цветочного магазина",
             "description": "Сайт получает товары в формате JSON, отрисовывает на главной странице в слайдер, а также в каталог. В каталоге есть фильтр товаров. Товары можно добавлять в корзину. Добавленные товары хранятся в localstorage. В корзине можно введется подсчет общей стоимости выбранных товаров. Сделана адаптиваная вёрстка.",
             "link":"https://hamedor.github.io/LoverFlower/",
-            "img": "/works/flowers.png",
+            "img": "works/flowers.png",
             "technologies":["JS","JSON","localstorage","CSS"]
         },
         {
             "id": 7,
             "heading": "Сайт автосервиса",
             "description": "Адаптивная mobile-first вёрстка с применением pixel-perfect",
-            "img": "/works/autocenter.png",
+            "img": "works/autocenter.png",
             "link":"https://hamedor.github.io/autocenterSite/",
             "technologies":["JS","CSS"]
         }
