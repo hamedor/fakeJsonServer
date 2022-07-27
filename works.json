@@ -4,7 +4,7 @@
             "id": 1,
             "heading": "Книжная полка",
             "description": "Приложение умеет создавать, редактировать и удалять книги. Имя автора книги, её название и обложка, котороая предварительно кодируется в формат base64, сохраняются в localstorage, а оттуда рендерятся на страницу.",
-            "img": "C:\Users\dimas\OneDrive\Рабочий стол\edited\portfolio\portfolio\public\works\books.png,
+            "img": "/books.png,
             "link": "https://hamedor.github.io/book-app/",
             "technologies": ["React", "localStorage"]
         },
