@@ -4,7 +4,7 @@
             "id": 1,
             "heading": "Книжная полка",
             "description": "Приложение умеет создавать, редактировать и удалять книги. Имя автора книги, её название и обложка, котороая предварительно кодируется в формат base64, сохраняются в localstorage, а оттуда рендерятся на страницу.",
-            "img": "/books.png",
+            "img": "././books.png",
             "link": "https://hamedor.github.io/book-app/",
             "technologies": ["React", "localStorage"]
         },
@@ -12,7 +12,7 @@
             "id": 2,
             "heading": "Курсы валют",
             "description": "SPA-приложение получает данные о курсах валют к рублю в формате JSON с www.cbr-xml-daily.ru. Приложение умеет выводить данные курсы к рублю, а также конвертировать введенное количество пользователем рублей в выбранную валюту.",
-            "img": "/currency-courses.png",
+            "img": "././currency-courses.png",
             "link": "https://hamedor.github.io/currency-courses/",
             "technologies":["React", "React-Router", "JSON"]
         },
