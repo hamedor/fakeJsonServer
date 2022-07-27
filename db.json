@@ -22,14 +22,14 @@
             "description": "Приложение получает список офисов, координат на карте, и данных руководителей в формате JSON. Приложение отрисовывает на карте точки местоположений офисов по им координатам, а в левой части названия городов и данные об офисах в этих городах, при клике на которые карта центрируется на офисе",
             "img": "././map.png",
             "link": "https://hamedor.github.io/yandexMap/",
-            "technologies": ["Vue", "API", "JSON"]
+            "technologies": ["Vue", "Api", "JSON"]
         },
         {
             "id": 4,
             "heading": "Форма",
             "description": "Многоступенчатая форма отправки данных с валидацией. Введённые данные хранятся в localstorage",
-            "link:": "https://hamedor.github.io/form/",
             "img": "././form.png",
+            "link:": "https://hamedor.github.io/form/",
             "technologies":["Vue", "CSS"]
         },
         {
