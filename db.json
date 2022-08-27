@@ -62,109 +62,109 @@
             "id": 1,
             "heading": "SOFA",
             "type": "Design",
-            "img": "/productImages/Sofa.jpeg"   
+            "img": "./productImages/Sofa.jpeg"   
         },
         {
             "id": 2,
             "heading": "KeyBoard",
             "type": "Branding",
-            "img": "/productImages/Keyboard.jpeg"
+            "img": "./productImages/Keyboard.jpeg"
         },
         {
             "id": 3,
             "heading": "Work Media",
             "type": "Illustration",
-            "img": "/productImages/Workmedia.jpeg"
+            "img": "./productImages/Workmedia.jpeg"
         },
         {
             "id": 4,
             "heading": "DDDone",
             "type": "Motion",
-            "img": "/productImages/DDDone.jpeg"
+            "img": "./productImages/DDDone.jpeg"
         },
         {
             "id": 5,
             "heading": "Abstract",
             "type": "Design",
-            "img": "/productImages/Abstract.jpeg" 
+            "img": "./productImages/Abstract.jpeg" 
         },
         {
             "id": 6,
             "heading": "HandP",
             "type": "Branding",
-            "img": "/productImages/Handp.jpeg"
+            "img": "./productImages/Handp.jpeg"
         },
         {
             "id": 7,
             "heading": "Architect",
             "type": "Motion",
-            "img": "/productImages/Architect.jpeg" 
+            "img": "./productImages/Architect.jpeg" 
         },
         {
             "id": 8,
             "heading": "CalC",
             "type": "Design",
-            "img": "/productImages/CalC.jpeg" 
+            "img": "./productImages/CalC.jpeg" 
         },
         {
             "id": 9,
             "heading": "Sport",
             "type": "Branding",
-            "img": "/productImages/Sport.jpeg" 
+            "img": "./productImages/Sport.jpeg" 
         },
         {
             "id": 10,
             "heading": "SOFA2",
             "type": "Design",
-            "img": "/productImages/Sofa.jpeg"   
+            "img": "./productImages/Sofa.jpeg"   
         },
         {
             "id": 11,
             "heading": "KeyBoard2",
             "type": "Branding",
-            "img": "/productImages/Keyboard.jpeg"
+            "img": "./productImages/Keyboard.jpeg"
         },
         {
             "id": 12,
             "heading": "Work Media2",
             "type": "Illustration",
-            "img": "/productImages/Workmedia.jpeg"
+            "img": "./productImages/Workmedia.jpeg"
         },
         {
             "id": 13,
             "heading": "DDDone2",
             "type": "Motion",
-            "img": "/productImages/DDDone.jpeg"
+            "img": "./productImages/DDDone.jpeg"
         },
         {
             "id": 14,
             "heading": "Abstract2",
             "type": "Design",
-            "img": "/productImages/Abstract.jpeg" 
+            "img": "./productImages/Abstract.jpeg" 
         },
         {
             "id": 15,
             "heading": "HandP2",
             "type": "Branding",
-            "img": "/productImages/Handp.jpeg"
+            "img": "./productImages/Handp.jpeg"
         },
         {
             "id": 16,
             "heading": "Architect2",
             "type": "Motion",
-            "img": "/productImages/Architect.jpeg" 
+            "img": "./productImages/Architect.jpeg" 
         },
         {
             "id": 17,
             "heading": "Calc2",
             "type": "Design",
-            "img": "/productImages/CalC.jpeg" 
+            "img": "./productImages/CalC.jpeg" 
         },
         {
             "id": 18,
             "heading": "Sport2",
             "type": "Branding",
-             "img": "/productImages/Sport.jpeg" 
+             "img": "./productImages/Sport.jpeg" 
         }
     ]
 }
