@@ -173,7 +173,7 @@
     "text":"первый",
     "date":"01.12.2012",
     "id":1,
-    "likes":2
+    "likes":2,
     "commentsArray":[
         {
             "name":"person2",
