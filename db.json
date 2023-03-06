@@ -166,5 +166,49 @@
             "type": "Branding",
              "img": "./productImages/Sport.jpeg" 
         }
-    ]
+    ],
+    "comments":[
+        {
+    "name":"person",
+    "text":"первый",
+    "date":"01.12.2012",
+    "id":"1",
+    "commentsArray":[
+        {
+            "name":"person2",
+            "text":"второй",
+            "date":"01.12.2020",
+            "id":"2",
+            "answeredComment":"1"
+        },
+        {
+            "name":"admin",
+            "text":"забаню",
+            "date":"01.12.2020",
+            "id":"3",
+            "answeredComment":"1"
+        },
+        {
+            "name":"someuser23141",
+            "text":"lorem lllll asda ddddd",
+            "date":"01.12.2020",
+            "id":"4",
+            "answeredComment":"2"
+        },
+        {
+            "name":"person1",
+            "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel massa placerat, maximus ex venenatis, fringilla tortor. Sed malesuada ut augue eget dictum.",
+            "date":"01.12.2020",
+            "id":"5",
+            "answeredComment":"4"
+        },
+        {
+            "name":"someuser2312341",
+            "text":"А что это за язык такой?",
+            "date":"01.12.2020",
+            "id":"6",
+            "answeredComment":"5"
+        }
+    ]}
+ ]
 }
