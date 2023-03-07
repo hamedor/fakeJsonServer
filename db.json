@@ -1,239 +1,264 @@
 {
-    "works": [
+  "works": [
+    {
+      "id": 1,
+      "heading": "Книжная полка",
+      "description": "Приложение умеет создавать, редактировать и удалять книги. Имя автора книги, её название и обложка, котороая предварительно кодируется в формат base64, сохраняются в localstorage, а оттуда рендерятся на страницу.",
+      "img": "works/books.png",
+      "link": "https://hamedor.github.io/book-app/",
+      "technologies": [
+        "React",
+        "localStorage"
+      ]
+    },
+    {
+      "id": 2,
+      "heading": "Курсы валют",
+      "description": "SPA-приложение получает данные о курсах валют к рублю в формате JSON с www.cbr-xml-daily.ru. Приложение умеет выводить данные курсы к рублю, а также конвертировать введенное количество пользователем рублей в выбранную валюту.",
+      "img": "works/currency-courses.png",
+      "link": "https://hamedor.github.io/currency-courses/",
+      "technologies": [
+        "React",
+        "React-Router",
+        "JSON"
+      ]
+    },
+    {
+      "id": 3,
+      "heading": "Карты",
+      "description": "Приложение получает список офисов, координат на карте, и данных руководителей в формате JSON. Приложение отрисовывает на карте точки местоположений офисов по им координатам, а в левой части названия городов и данные об офисах в этих городах, при клике на которые карта центрируется на офисе",
+      "img": "works/map.png",
+      "link": "https://hamedor.github.io/yandexMap/",
+      "technologies": [
+        "Vue",
+        "API",
+        "JSON"
+      ]
+    },
+    {
+      "id": 4,
+      "heading": "Форма",
+      "description": "Многоступенчатая форма отправки данных с валидацией. Введённые данные хранятся в localstorage",
+      "link": "https://hamedor.github.io/form/",
+      "img": "works/form.png",
+      "technologies": [
+        "Vue",
+        "CSS"
+      ]
+    },
+    {
+      "id": 5,
+      "heading": "Солнечная Система",
+      "description": "Солнечная система и звездное небо с использованием библиотеки three.js",
+      "link": "https://hamedor.github.io/SolarSystem/",
+      "img": "works/solar-system.png",
+      "technologies": [
+        "Three.js"
+      ]
+    },
+    {
+      "id": 6,
+      "heading": "Сайт цветочного магазина",
+      "description": "Сайт получает товары в формате JSON, отрисовывает на главной странице в слайдер, а также в каталог. В каталоге есть фильтр товаров. Товары можно добавлять в корзину. Добавленные товары хранятся в localstorage. В корзине можно введется подсчет общей стоимости выбранных товаров. Сделана адаптиваная вёрстка.",
+      "link": "https://hamedor.github.io/LoverFlower/",
+      "img": "works/flowers.png",
+      "technologies": [
+        "JS",
+        "JSON",
+        "localstorage",
+        "CSS"
+      ]
+    },
+    {
+      "id": 7,
+      "heading": "Сайт автосервиса",
+      "description": "Адаптивная mobile-first вёрстка с применением pixel-perfect",
+      "img": "works/autocenter.png",
+      "link": "https://hamedor.github.io/autocenterSite/",
+      "technologies": [
+        "JS",
+        "CSS"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "heading": "SOFA",
+      "type": "Design",
+      "img": "./productImages/Sofa.jpeg"
+    },
+    {
+      "id": 2,
+      "heading": "KeyBoard",
+      "type": "Branding",
+      "img": "./productImages/Keyboard.jpeg"
+    },
+    {
+      "id": 3,
+      "heading": "Work Media",
+      "type": "Illustration",
+      "img": "./productImages/Workmedia.jpeg"
+    },
+    {
+      "id": 4,
+      "heading": "DDDone",
+      "type": "Motion",
+      "img": "./productImages/DDDone.jpeg"
+    },
+    {
+      "id": 5,
+      "heading": "Abstract",
+      "type": "Design",
+      "img": "./productImages/Abstract.jpeg"
+    },
+    {
+      "id": 6,
+      "heading": "HandP",
+      "type": "Branding",
+      "img": "./productImages/Handp.jpeg"
+    },
+    {
+      "id": 7,
+      "heading": "Architect",
+      "type": "Motion",
+      "img": "./productImages/Architect.jpeg"
+    },
+    {
+      "id": 8,
+      "heading": "CalC",
+      "type": "Design",
+      "img": "./productImages/CalC.jpeg"
+    },
+    {
+      "id": 9,
+      "heading": "Sport",
+      "type": "Branding",
+      "img": "./productImages/Sport.jpeg"
+    },
+    {
+      "id": 10,
+      "heading": "SOFA2",
+      "type": "Design",
+      "img": "./productImages/Sofa.jpeg"
+    },
+    {
+      "id": 11,
+      "heading": "KeyBoard2",
+      "type": "Branding",
+      "img": "./productImages/Keyboard.jpeg"
+    },
+    {
+      "id": 12,
+      "heading": "Work Media2",
+      "type": "Illustration",
+      "img": "./productImages/Workmedia.jpeg"
+    },
+    {
+      "id": 13,
+      "heading": "DDDone2",
+      "type": "Motion",
+      "img": "./productImages/DDDone.jpeg"
+    },
+    {
+      "id": 14,
+      "heading": "Abstract2",
+      "type": "Design",
+      "img": "./productImages/Abstract.jpeg"
+    },
+    {
+      "id": 15,
+      "heading": "HandP2",
+      "type": "Branding",
+      "img": "./productImages/Handp.jpeg"
+    },
+    {
+      "id": 16,
+      "heading": "Architect2",
+      "type": "Motion",
+      "img": "./productImages/Architect.jpeg"
+    },
+    {
+      "id": 17,
+      "heading": "Calc2",
+      "type": "Design",
+      "img": "./productImages/CalC.jpeg"
+    },
+    {
+      "id": 18,
+      "heading": "Sport2",
+      "type": "Branding",
+      "img": "./productImages/Sport.jpeg"
+    }
+  ],
+  "comments": [
+    {
+      "name": "person",
+      "text": "первый",
+      "date": "01.12.2012",
+      "id": 1,
+      "likes": 2,
+      "nestLevel": 1,
+      "commentsArray": [
         {
-            "id": 1,
-            "heading": "Книжная полка",
-            "description": "Приложение умеет создавать, редактировать и удалять книги. Имя автора книги, её название и обложка, котороая предварительно кодируется в формат base64, сохраняются в localstorage, а оттуда рендерятся на страницу.",
-            "img": "works/books.png",
-            "link": "https://hamedor.github.io/book-app/",
-            "technologies": ["React", "localStorage"]
+          "name": "person2",
+          "text": "второй",
+          "date": "01.12.2020",
+          "id": 2,
+          "answeredComment": 1,
+          "likes": 0
         },
         {
-            "id": 2,
-            "heading": "Курсы валют",
-            "description": "SPA-приложение получает данные о курсах валют к рублю в формате JSON с www.cbr-xml-daily.ru. Приложение умеет выводить данные курсы к рублю, а также конвертировать введенное количество пользователем рублей в выбранную валюту.",
-            "img": "works/currency-courses.png",
-            "link": "https://hamedor.github.io/currency-courses/",
-            "technologies":["React", "React-Router", "JSON"]
+          "name": "admin",
+          "text": "забаню",
+          "date": "01.12.2020",
+          "id": 3,
+          "answeredComment": 1,
+          "likes": 12
         },
         {
-            "id": 3,
-            "heading": "Карты",
-            "description": "Приложение получает список офисов, координат на карте, и данных руководителей в формате JSON. Приложение отрисовывает на карте точки местоположений офисов по им координатам, а в левой части названия городов и данные об офисах в этих городах, при клике на которые карта центрируется на офисе",
-            "img": "works/map.png",
-            "link": "https://hamedor.github.io/yandexMap/",
-            "technologies": ["Vue","API", "JSON"]
+          "name": "someuser23141",
+          "text": "lorem lllll asda ddddd",
+          "date": "01.12.2020",
+          "id": 4,
+          "answeredComment": 1,
+          "likes": 2
         },
         {
-            "id": 4,
-            "heading": "Форма",
-            "description": "Многоступенчатая форма отправки данных с валидацией. Введённые данные хранятся в localstorage",
-            "link": "https://hamedor.github.io/form/",
-            "img": "works/form.png",
-            "technologies":["Vue", "CSS"]
+          "name": "person1",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel massa placerat, maximus ex venenatis, fringilla tortor. Sed malesuada ut augue eget dictum.",
+          "date": "01.12.2020",
+          "id": 5,
+          "answeredComment": 4,
+          "likes": 2
         },
         {
-            "id": 5,
-            "heading": "Солнечная Система",
-            "description": "Солнечная система и звездное небо с использованием библиотеки three.js",
-            "link":"https://hamedor.github.io/SolarSystem/",
-            "img": "works/solar-system.png",
-            "technologies":["Three.js"]
-        },
-        {
-            "id": 6,
-            "heading": "Сайт цветочного магазина",
-            "description": "Сайт получает товары в формате JSON, отрисовывает на главной странице в слайдер, а также в каталог. В каталоге есть фильтр товаров. Товары можно добавлять в корзину. Добавленные товары хранятся в localstorage. В корзине можно введется подсчет общей стоимости выбранных товаров. Сделана адаптиваная вёрстка.",
-            "link":"https://hamedor.github.io/LoverFlower/",
-            "img": "works/flowers.png",
-            "technologies":["JS","JSON","localstorage","CSS"]
-        },
-        {
-            "id": 7,
-            "heading": "Сайт автосервиса",
-            "description": "Адаптивная mobile-first вёрстка с применением pixel-perfect",
-            "img": "works/autocenter.png",
-            "link":"https://hamedor.github.io/autocenterSite/",
-            "technologies":["JS","CSS"]
+          "name": "someuser2312341",
+          "text": "А что это за язык такой?",
+          "date": "01.12.2020",
+          "id": 6,
+          "answeredComment": 5,
+          "likes": 2
         }
-    ],
-     "products": [
+      ]
+    },
+    {
+      "name": "person2",
+      "text": "Вторая ветка",
+      "date": "01.12.2012",
+      "id": 1,
+      "likes": 2,
+      "nestLevel": 1,
+      "commentsArray": [
         {
-            "id": 1,
-            "heading": "SOFA",
-            "type": "Design",
-            "img": "./productImages/Sofa.jpeg"   
-        },
-        {
-            "id": 2,
-            "heading": "KeyBoard",
-            "type": "Branding",
-            "img": "./productImages/Keyboard.jpeg"
-        },
-        {
-            "id": 3,
-            "heading": "Work Media",
-            "type": "Illustration",
-            "img": "./productImages/Workmedia.jpeg"
-        },
-        {
-            "id": 4,
-            "heading": "DDDone",
-            "type": "Motion",
-            "img": "./productImages/DDDone.jpeg"
-        },
-        {
-            "id": 5,
-            "heading": "Abstract",
-            "type": "Design",
-            "img": "./productImages/Abstract.jpeg" 
-        },
-        {
-            "id": 6,
-            "heading": "HandP",
-            "type": "Branding",
-            "img": "./productImages/Handp.jpeg"
-        },
-        {
-            "id": 7,
-            "heading": "Architect",
-            "type": "Motion",
-            "img": "./productImages/Architect.jpeg" 
-        },
-        {
-            "id": 8,
-            "heading": "CalC",
-            "type": "Design",
-            "img": "./productImages/CalC.jpeg" 
-        },
-        {
-            "id": 9,
-            "heading": "Sport",
-            "type": "Branding",
-            "img": "./productImages/Sport.jpeg" 
-        },
-        {
-            "id": 10,
-            "heading": "SOFA2",
-            "type": "Design",
-            "img": "./productImages/Sofa.jpeg"   
-        },
-        {
-            "id": 11,
-            "heading": "KeyBoard2",
-            "type": "Branding",
-            "img": "./productImages/Keyboard.jpeg"
-        },
-        {
-            "id": 12,
-            "heading": "Work Media2",
-            "type": "Illustration",
-            "img": "./productImages/Workmedia.jpeg"
-        },
-        {
-            "id": 13,
-            "heading": "DDDone2",
-            "type": "Motion",
-            "img": "./productImages/DDDone.jpeg"
-        },
-        {
-            "id": 14,
-            "heading": "Abstract2",
-            "type": "Design",
-            "img": "./productImages/Abstract.jpeg" 
-        },
-        {
-            "id": 15,
-            "heading": "HandP2",
-            "type": "Branding",
-            "img": "./productImages/Handp.jpeg"
-        },
-        {
-            "id": 16,
-            "heading": "Architect2",
-            "type": "Motion",
-            "img": "./productImages/Architect.jpeg" 
-        },
-        {
-            "id": 17,
-            "heading": "Calc2",
-            "type": "Design",
-            "img": "./productImages/CalC.jpeg" 
-        },
-        {
-            "id": 18,
-            "heading": "Sport2",
-            "type": "Branding",
-             "img": "./productImages/Sport.jpeg" 
+          "name": "person131",
+          "text": "круто",
+          "date": "01.12.2020",
+          "id": 2,
+          "answeredComment": 1,
+          "likes": 0
         }
-    ],
-    "comments":[
-        {
-    "name":"person",
-    "text":"первый",
-    "date":"01.12.2012",
-    "id":1,
-    "likes":2,
-    "nestLevel":1,
-    "commentsArray":[
-        {
-            "name":"person2",
-            "text":"второй",
-            "date":"01.12.2020",
-            "id":2,
-            "answeredComment":1,
-             "likes":0
-        },
-        {
-            "name":"admin",
-            "text":"забаню",
-            "date":"01.12.2020",
-            "id":3,
-            "answeredComment":1,
-             "likes":12
-        },
-        {
-            "name":"someuser23141",
-            "text":"lorem lllll asda ddddd",
-            "date":"01.12.2020",
-            "id":4,
-            "answeredComment":1,
-             "likes":2
-        },
-        {
-            "name":"person1",
-            "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel massa placerat, maximus ex venenatis, fringilla tortor. Sed malesuada ut augue eget dictum.",
-            "date":"01.12.2020",
-            "id":5,
-            "answeredComment":4,
-             "likes":2
-        },
-        {
-            "name":"someuser2312341",
-            "text":"А что это за язык такой?",
-            "date":"01.12.2020",
-            "id":6,
-            "answeredComment":5,
-             "likes":2
-        }
-    ]},
-         {
-    "name":"person",
-    "text":"это вторая ветка",
-    "date":"01.12.2012",
-    "id":7,
-    "likes":2,
-    "nestLevel":1,
-    "commentsArray":[
-        {
-            "name":"person2",
-            "text":"ответ",
-            "date":"01.12.2020",
-            "id":2,
-            "answeredComment":7,
-             "likes":0
-        }
-        ]}
-        
- ]
+      ]
+    }
+  ]
 }
