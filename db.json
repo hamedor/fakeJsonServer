@@ -82,7 +82,11 @@
     }
   ],
   "test":[
-    "text": "test",
+    {
+      "text": "test",
+      "id": 1,
+    }
+    
   ],
   "comments": [
     {
