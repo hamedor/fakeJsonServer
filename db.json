@@ -246,7 +246,7 @@
       "name": "person2",
       "text": "Вторая ветка",
       "date": "01.12.2012",
-      "id": 1,
+      "id": 7,
       "likes": 2,
       "nestLevel": 1,
       "commentsArray": [
@@ -254,8 +254,8 @@
           "name": "person131",
           "text": "круто",
           "date": "01.12.2020",
-          "id": 2,
-          "answeredComment": 1,
+          "id": 8,
+          "answeredComment": 7,
           "likes": 0
         }
       ]
