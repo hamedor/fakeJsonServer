@@ -216,6 +216,23 @@
             "answeredComment":5,
              "likes":2
         }
-    ]}
+    ]},
+         {
+    "name":"person",
+    "text":"это вторая ветка",
+    "date":"01.12.2012",
+    "id":7,
+    "likes":2,
+    "nestLevel":1,
+    "commentsArray":[
+        {
+            "name":"person2",
+            "text":"ответ",
+            "date":"01.12.2020",
+            "id":2,
+            "answeredComment":7,
+             "likes":0
+        },
+        
  ]
 }
